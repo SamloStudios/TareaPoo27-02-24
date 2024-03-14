@@ -1,3 +1,0 @@
-C:/Users/admin/Desktop/Tarea/Game/v1.2/rpg-example/cmake-build-debug/CMakeFiles/rpg.dir
-C:/Users/admin/Desktop/Tarea/Game/v1.2/rpg-example/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/admin/Desktop/Tarea/Game/v1.2/rpg-example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
